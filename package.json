@@ -1,0 +1,12 @@
+{
+  "name": "@wraith/module-utils",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "description": "Session intelligence gatherer — browser, hardware, network, locale, storage, and fingerprint data",
+  "main": "index.jsx",
+  "dependencies": {
+    "@framework/ui": "workspace:*",
+    "react": "^18.3.1"
+  }
+}
