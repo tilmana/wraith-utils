@@ -32,6 +32,10 @@ All collectors are `capture.init` (one-shot at session start, persist: true):
 
 None.
 
+## Screenshots
+
+See [demo screenshots](https://github.com/tilmana/wraith#utils-screenshots) in the main Wraith repo.
+
 ## Install
 
 Clone or copy this directory into the Wraith `modules/` folder, run `pnpm install`, and restart the dev server. The framework discovers modules automatically.
