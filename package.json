@@ -8,8 +8,7 @@
   "description": "Session intelligence gatherer \u2014 browser, hardware, network, locale, storage, and fingerprint data",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tilmana/wraith",
-    "directory": "modules/wraith-utils"
+    "url": "https://github.com/tilmana/wraith-utils"
   },
   "main": "index.jsx",
   "peerDependencies": {
